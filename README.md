@@ -1,9 +1,9 @@
-# 💼 Gokul Kumar Kesavan's Portfolio Website
+# 💼 Anesh Thangaraj's Portfolio Website
 
 Welcome to my personal portfolio website!  
 Built using ReactJS and deployed via GitHub Pages.
 
-🔗 [View Live Website](https://gokulkumar1014.github.io)
+🔗 [View Live Website](https://anesh-t.github.io/)
 
 ---
 
@@ -39,14 +39,14 @@ Designed to reflect my journey as a Business Analytics Graduate Student at **The
 
 ## 📈 Deployment
 Deployed using **GitHub Pages**  
-👉 Repo Name: `gokulkumar1014.github.io` (as per GitHub Pages convention)
+👉 Repo Name: `anesh-t.github.io` (as per GitHub Pages convention)
 
 ---
 
 ## 🔗 Useful Links
-- [Live Website](https://gokulkumar1014.github.io)
-- [LinkedIn](https://www.linkedin.com/in/gokul-kumar-kesavan)
-- [Resume (Google Drive)](https://drive.google.com/file/d/1_iw0GC7mL5wRv7e5ANSWw4boSxMaaX0a/view)
+- [Live Website](https://anesh-t.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/anesh-t/)
+- [Resume](https://drive.google.com/file/d/1RXysiRmtufQLG1yKhG0O3EgNN9OM9_7y/view?usp=sharing)
 
 ---
 
